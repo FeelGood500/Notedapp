@@ -21,7 +21,7 @@ Application was created to obtain a grade at Uni and is a simple Java project wi
 - android.library: 7.3.0
 
 ## Screenshots
-![Example screenshot](./img/screenshot.jpg)
+![Example screenshot](./screenshot.jpg)
 
 
 ## Setup
